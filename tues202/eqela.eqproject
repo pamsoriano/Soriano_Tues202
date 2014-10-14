@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Tues202
+#
+
+projectname: Tues202
+vendorid: com.mycompany.pamsoriano
+mainmodule: com.mycompany.pamsoriano.tues202
